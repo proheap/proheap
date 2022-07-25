@@ -8,8 +8,8 @@
 
 ## 🔗&nbsp;Connect with me
 
-<a href="https://github.com/proheap" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" title="GitHub" width="30"/> </a> &nbsp; 
-<a href="https://twitter.com/proheap" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" title="Twitter" width="30"/></a> &nbsp; 
+<a href="https://github.com/proheap" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" title="GitHub" width="40"/> </a> &nbsp; 
+<a href="https://twitter.com/proheap" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" title="Twitter" width="40"/></a> &nbsp; 
 <a href="https://www.linkedin.com/in/martin-misik" target="_blank"><img src="https://evergreenengineering.com/wp-content/uploads/2019/06/LinkedIn_logo_initials.png" alt="linkedin" title="Linkedin" width="40"/> </a> &nbsp; 
 <a href="https://stackoverflow.com/users/19619934/proheap" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackOverflow" title="Stack Overflow" width="40"/> </a> &nbsp; 
 
