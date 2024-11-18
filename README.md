@@ -3,7 +3,7 @@
 - 👋 &nbsp;Hi, I’m [@proheap](https://github.com/proheap)
 - 🔭 &nbsp;I’m currently working on something cool
 - 👀 &nbsp;I’m currently interested in Node.js (NestJS) with MongoDB
-- 📫 &nbsp;How to reach me: [@proheap](https://twitter.com/proheap)
+- 📫 &nbsp;How to reach me: [@proheap](https://www.linkedin.com/in/martin-misik)
 - 💻 &nbsp;Check also my [repositories](https://github.com/proheap?tab=repositories)
 
 ## 🔗&nbsp;Connect with me
